@@ -1,3 +1,5 @@
+"use strict";
+
 const _ = require('underscore');
 
 var getWallet = function (from, accounts) {
