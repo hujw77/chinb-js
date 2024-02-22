@@ -1,6 +1,6 @@
 {
   "name": "chinb",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Chinb JavaScript API",
   "repository": "https://github.com/hujw77/chinb-js",
   "main": "index.js",
